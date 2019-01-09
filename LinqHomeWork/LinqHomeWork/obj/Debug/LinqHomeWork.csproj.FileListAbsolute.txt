@@ -1,0 +1,13 @@
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\LinqHomeWork.exe.config
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\LinqHomeWork.exe
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\LinqHomeWork.pdb
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\EntityFramework.dll
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\EntityFramework.xml
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\obj\Debug\LinqHomeWork.csprojAssemblyReference.cache
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\obj\Debug\LinqHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\obj\Debug\LinqHomeWork.csproj.CopyComplete
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\obj\Debug\LinqHomeWork.exe
+C:\Users\КалиаскарР\source\repos\LinqHomeWork\LinqHomeWork\obj\Debug\LinqHomeWork.pdb
